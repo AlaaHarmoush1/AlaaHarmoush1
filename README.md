@@ -21,6 +21,7 @@ Now I’m on a mission to become the ideal software engineer one who not only bu
 * 🚀  I'm currently working on [A new startup](http://x)
 * 🧠  I'm learning Laravel
 * 🤝  I'm open to collaborating on any interesting project
+* ⚡  I am Batman I code Day and night
 
 ### Skills
 
