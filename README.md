@@ -4,10 +4,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alaa Harmoush
 =====================================================================================================================================
 
-Software Engineer
------------------
-
-Co-Founder | Software Engineer | Future-Ready Technologist
+Software Engineer | Co-Founder | Future-Ready Technologist
+-----------------------------------------------------------
 
 I started coding 5 years ago, beginning with HTML and CSS as I explored deeper I enrolled in a JavaScript course at Park Innovation which led me to take a Full-Stack Development program focusing on React and Node.js
 
